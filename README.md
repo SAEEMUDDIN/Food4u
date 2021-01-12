@@ -38,7 +38,8 @@ Cart Page
 - Payment – Choose payment method either cash on delivery (COD), Online banking or Debit Card.
  
  **DIAGRAM**
-
+ER_Diagram
+![ERD](erd.png)
 
 Controller 
    - Accept input from the customer class which allows the user to input their name, address, and phone number.
@@ -48,7 +49,9 @@ Controller
 View
    - Display Menu
    - Display calculated price
-
+   
+Application Sitemap
+![Sitemap](sitemap.png)
  
  **REFRENCES**
    - Controllers. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/controllers
