@@ -23,13 +23,15 @@ The general objectives of this web application are to develop a reliable, conven
 
 **FEATURES AND FUNCTIONALITIES**
 
-   1. Homepage
+Homepage
 - Introduction – A short brief on the restaurant
 - Limited Offer / Sale – Few Item on current sales
 - Contact Us – Restaurant Information
-   2.Menu Page
+
+Menu Page
 - Menu – Sorted according to its category and each category on each page
-   3.Cart Page
+
+Cart Page
 - Cart – Display all choices that user selected
 - Customer Details – A section on customer to input their details 
 - Product Deliver Method – User need to select how they are going to enjoy their food which is dine in, take away or they deliver it to their doorsteps. 
