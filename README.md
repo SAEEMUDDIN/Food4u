@@ -35,8 +35,9 @@ Cart Page
 - Cart – Display all choices that user selected
 - Customer Details – A section on customer to input their details 
 - Product Deliver Method – User need to select how they are going to enjoy their food which is dine in, take away or they deliver it to their doorsteps. 
-- Payment – Choose payment method either cash on delivery (COD), Online banking or Debit Card.
- 
+- Payment – Choose payment method either cash on delivery (COD), Online banking or Debit Card
+
+
  **DIAGRAM**
  
 ER_Diagram
