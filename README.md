@@ -15,10 +15,10 @@ The application name will be Food4U. This application is going to benefits most 
 **OBJECTIVES**
 
 The general objectives of this web application are to develop a reliable, convenient and giving a positive impact to the public. Our goals are as stated below.
-   •	Provide an application that gives satisfaction to the customer
-   •	Design an application that will please the user of the application
-   •	To improve communication between buyers and seller and minimize the time of ordering
-   •	To calculate the bill, receipt amount automatically and accurately
+- Provide an application that gives satisfaction to the customer
+- Design an application that will please the user of the application
+- To improve communication between buyers and seller and minimize the time of ordering
+- To calculate the bill, receipt amount automatically and accurately
 
 
 **FEATURES AND FUNCTIONALITIES**
