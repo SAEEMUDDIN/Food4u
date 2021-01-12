@@ -38,7 +38,9 @@ Cart Page
 - Payment – Choose payment method either cash on delivery (COD), Online banking or Debit Card.
  
  **DIAGRAM**
+ 
 ER_Diagram
+
 ![ERD](erd.png)
 
 Controller 
@@ -51,6 +53,7 @@ View
    - Display calculated price
    
 Application Sitemap
+
 ![Sitemap](sitemap.png)
  
  **REFRENCES**
