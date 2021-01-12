@@ -7,7 +7,6 @@ MD SAEEM UDDIN 1721129
 MR SHARIFUL ISLAM 1619061
 MUHAMAD AKMAL BIN ABU BAKAR 1811543
 
- 
 INTRODUCTION
 
 As a project of our courses INFO 3305 for semester 1 2020/2021, We discuss among ourselves and decide to make an application that will provide a good service to the users. We are going to make an application to order food in advance and users can choose to dine in later or we will deliver it to their footsteps. 
@@ -40,19 +39,17 @@ FEATURES AND FUNCTIONALITIES
 
 
 Controller 
-   •	Accept input from the customer class which allows the user to input their name, address, and phone number.
-   •	Convert its command to the model to insert the customers data into the system database.
-   •	Food selection and quantity and updated into database
-   •	Calculate price of cart
+   - Accept input from the customer class which allows the user to input their name, address, and phone number.
+   - Convert its command to the model to insert the customers data into the system database.
+   - Food selection and quantity and updated into database
+   - Calculate price of cart
 View
-   •	Display Menu
-   •	Display calculated price
-
-
+   - Display Menu
+   - Display calculated price
 
  
 5.	REFRENCES
-   Controllers. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/controllers
-   Eloquent: Getting started. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/eloquent
-   (n.d.). KFC Malaysia | Now available for Delivery and Self Collect!. https://kfc.com.my
-   Views. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/views
+   - Controllers. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/controllers
+   - Eloquent: Getting started. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/eloquent
+   - (n.d.). KFC Malaysia | Now available for Delivery and Self Collect!. https://kfc.com.my
+   - Views. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/views
