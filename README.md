@@ -49,6 +49,7 @@ Controller
    - Convert its command to the model to insert the customers data into the system database.
    - Food selection and quantity and updated into database
    - Calculate price of cart
+   
 View
    - Display Menu
    - Display calculated price
