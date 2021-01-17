@@ -35,8 +35,7 @@ Cart Page
 - Cart – Display all choices that user selected
 - Customer Details – A section on customer to input their details 
 - Product Deliver Method – User need to select how they are going to enjoy their food which is dine in, take away or they deliver it to their doorsteps. 
-- Payment – Choose payment method either cash on delivery (COD), Online banking or Debit Card
-
+- Payment – Choose payment method is by cash on delivery
 
  **DIAGRAM**
  
@@ -44,15 +43,9 @@ ER_Diagram
 
 ![ERD](erd.png)
 
-Controller 
-   - Accept input from the customer class which allows the user to input their name, address, and phone number.
-   - Convert its command to the model to insert the customers data into the system database.
-   - Food selection and quantity and updated into database
-   - Calculate price of cart
-   
-View
-   - Display Menu
-   - Display calculated price
+The diagram above can be seen that we ise controller to accept input from the customer class which allows the user to input their name, address, and phone number. Once the details is retreived, it will convert its command to the model to insert the customers data into the system database.Then the menu will be displayed by using view. The user will once agaion choose the food and the quantity of the products and the model will recieve their input and will be sent onto databases. 
+
+Once all of the data are recived, the system will calculate the total price of the food of the customer ordered. It will then display the total amount of customer need to pay . The controller will take part of the process and view system will display back to the customer. The system will process the payment and display their recipt and order ID to track their order status. Once the order has been completed, it will delete the data in database system.
    
 Application Sitemap
 
