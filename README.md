@@ -52,3 +52,9 @@ Once all the data are received, the system will calculate the total price of the
    - Eloquent: Getting started. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/eloquent
    - (n.d.). KFC Malaysia | Now available for Delivery and Self Collect!. https://kfc.com.my
    - Views. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/views
+   
+   
+   
+   
+   **PROJECT CODES**
+   https://drive.google.com/drive/folders/1p0UraToVWCyAT2myYN11nJONDHhvexK2?usp=sharing
