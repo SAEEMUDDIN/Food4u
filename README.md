@@ -23,33 +23,21 @@ The general objectives of this web application are to develop a reliable, conven
 
 **FEATURES AND FUNCTIONALITIES**
 
-Homepage
-- Introduction – A short brief on the restaurant
-- Limited Offer / Sale – Few Item on current sales
-- Contact Us – Restaurant Information
-
-Menu Page
-- Menu – Sorted according to its category and each category on each page
-
-Cart Page
-- Cart – Display all choices that user selected
-- Customer Details – A section on customer to input their details 
-- Product Deliver Method – User need to select how they are going to enjoy their food which is dine in, take away or they deliver it to their doorsteps. 
-- Payment – Choose payment method is by cash on delivery
-
+This website application will ease a person everyday life. They can order the food without need to be physically on the store or restaurant. Furthermore, during this pandemic of COVID-19, the risk of infected could be lessen since we could avoid any gathering. This website also can provide an information on store as well as avoid any mistake since the price are calculated automatically and accurately.
  **DIAGRAM**
  
 ER_Diagram
 
 ![ERD](erd.png)
 
-The diagram above can be seen that we ise controller to accept input from the customer class which allows the user to input their name, address, and phone number. Once the details is retreived, it will convert its command to the model to insert the customers data into the system database.Then the menu will be displayed by using view. The user will once agaion choose the food and the quantity of the products and the model will recieve their input and will be sent onto databases. 
+The diagram above can be seen that we use controller to accept input from the customer class which allows the user to input their name, address, and phone number. Once the details are retrieved, it will convert its command to the model to insert the customers data into the system database. Then the menu will be displayed by using view. The user will once again choose the food and the quantity of the products and the model will receive their input and will be sent onto databases.
 
-Once all of the data are recived, the system will calculate the total price of the food of the customer ordered. It will then display the total amount of customer need to pay . The controller will take part of the process and view system will display back to the customer. The system will process the payment and display their recipt and order ID to track their order status. Once the order has been completed, it will delete the data in database system.
+Once all the data are received, the system will calculate the total price of the food of the customer ordered. It will then display the total amount of customer need to pay. The controller will take part of the process and view system will display back to the customer. The system will process the payment and display their receipt and order ID to track their order status. Once the order has been completed, it will delete the data in database system.
+
    
 Application Sitemap
 
-![Sitemap](sitemap.png)
+![Sequance](Food4U_Sequance.png)
  
  **REFRENCES**
    - Controllers. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/controllers
