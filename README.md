@@ -24,6 +24,8 @@ The general objectives of this web application are to develop a reliable, conven
 **FEATURES AND FUNCTIONALITIES**
 
 This website application will ease a person everyday life. They can order the food without need to be physically on the store or restaurant. Furthermore, during this pandemic of COVID-19, the risk of infected could be lessen since we could avoid any gathering. This website also can provide an information on store as well as avoid any mistake since the price are calculated automatically and accurately.
+
+
  **DIAGRAM**
  
 ER_Diagram
@@ -34,11 +36,17 @@ The diagram above can be seen that we use controller to accept input from the cu
 
 Once all the data are received, the system will calculate the total price of the food of the customer ordered. It will then display the total amount of customer need to pay. The controller will take part of the process and view system will display back to the customer. The system will process the payment and display their receipt and order ID to track their order status. Once the order has been completed, it will delete the data in database system.
 
-   
-Application Sitemap
+**Sequance Diagram**
 
 ![Sequance](Food4U_Sequance.png)
+
+**Work Delegation**
+
+![WD](Food4U_WD.png)
+
  
+ 
+
  **REFRENCES**
    - Controllers. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/controllers
    - Eloquent: Getting started. (n.d.). Laravel - The PHP Framework For Web Artisans. https://laravel.com/docs/8.x/eloquent
